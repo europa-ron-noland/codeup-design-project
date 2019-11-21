@@ -1,0 +1,21 @@
+#custom .navbar-nav > li {
+    margin: 0 .5rem;
+}
+#custom .light-grey {
+    background-color: #F0F0F0;
+}
+#custom #logo-img {
+    width: 105px;
+    height: 105px;
+}
+#custom .circles {
+    border: 12em;
+}
+#custom #design-test {
+    width: 105px;
+    height: 105px;
+}
+#custom .circle {
+    border: 6px solid white;
+    border-radius: 50%;
+}
