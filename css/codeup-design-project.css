@@ -12,18 +12,40 @@
     position: relative;
 }
 #custom #white-bar{
-    height: 3.4rem;
+    height: 3.5rem;
     background-color: white;
     z-index: 0;
     position: absolute;
-    padding-top: 3rem;
-    margin-top: 10% !important;
+    margin-top: 8% !important;
 }
 #custom .circle {
     border: 6px solid white;
     border-radius: 50%;
 }
 #custom .circle-text {
-    font-size: 24px;
+    font-size: 1rem;
     color: white;
+}
+#custom #macbook-img {
+    border: 6px solid #e6e6e6;
+}
+#custom .little-circle-text {
+    font-size: 9px;
+    color: black;
+}
+#custom #little-circle1 {
+    padding-right: 0 !important;
+    margin-right: 0 !important;
+}
+#custom #little-circle2 {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+#custom #little-circle3 {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+#custom #little-circle4 {
+    padding: 0 !important;
+    margin: 0 !important;
 }
