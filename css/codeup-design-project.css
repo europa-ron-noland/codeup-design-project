@@ -94,6 +94,7 @@
 #custom .little-circle-text {
     font-size: 9px;
     color: black;
+    font-weight: bold;
 }
 #custom #sm-little-circle1 {
     padding-right: 0 !important;
@@ -119,6 +120,18 @@
 }
 #custom #sm-codeup-design {
     font-size: 28px;
+}
+#custom #sm-featured-project1 {
+    font-size: .6em;
+}
+#custom #sm-featured-project2 {
+    font-size: .6em;
+}
+#custom #sm-featured-project3 {
+    font-size: .6em;
+}
+#custom #sm-featured-project4 {
+    font-size: .6em;
 }
 
 
