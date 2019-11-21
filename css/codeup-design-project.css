@@ -134,4 +134,79 @@
     font-size: .6em;
 }
 
+/*start of medium device*/
+
+#custom #md-navbar-nav > li {
+    margin: 0 .5rem;
+}
+#custom .light-grey {
+    background-color: #F0F0F0;
+}
+
+#custom #md-logo-img {
+    width: 105px;
+    height: 105px;
+    z-index: 3;
+    position: relative;
+}
+#custom #md-white-bar{
+    height: 3.5rem;
+    background-color: white;
+    z-index: 0;
+    position: absolute;
+    margin-top: 6% !important;
+
+}
+#custom .circle {
+    border: 6px solid white;
+    border-radius: 50%;
+}
+#custom .circle-text {
+    font-size: 1rem;
+    color: white;
+}
+#custom #md-apple-ipad-img {
+    border: 6px solid #e6e6e6;
+}
+#custom .little-circle-text {
+    font-size: 9px;
+    color: black;
+    font-weight: bold;
+}
+#custom #md-little-circle1 {
+    padding-right: 0 !important;
+    margin-right: 0 !important;
+}
+#custom #md-little-circle2 {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+#custom #md-little-circle3 {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+#custom #md-little-circle4 {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+#custom p {
+    font-family: 'Abel', sans-serif;
+}
+#custom h1, h2, h3, h4, h5, h6 {
+    font-family: 'Anton', sans-serif;
+}
+#custom #md-codeup-design {
+    font-size: 28px;
+}
+#custom #md-featured-project1 {
+    font-size: .6em;
+}
+#custom #md-featured-project2 {
+    font-size: .6em;
+}
+#custom #md-featured-project3 {
+    font-size: .6em;
+}
+#custom #md-featured-project4 {
+    font-size: .6em;
 
