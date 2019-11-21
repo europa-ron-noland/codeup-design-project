@@ -8,14 +8,27 @@
     width: 105px;
     height: 105px;
 }
-#custom .circles {
-    border: 12em;
-}
-#custom #design-test {
-    width: 105px;
-    height: 105px;
-}
+/*#custom .circle-row {*/
+/*    margin-top: 12em;*/
+/*}*/
+/*#custom #design-test {*/
+/*    width: 105px;*/
+/*    height: 105px;*/
+/*}*/
+/*#custom .circle-container {*/
+/*    position: relative;*/
+/*}*/
 #custom .circle {
     border: 6px solid white;
     border-radius: 50%;
 }
+#custom .circle-text {
+    font-size: 24px;
+    color: white;
+}
+/*#custom .circle-text-position {*/
+/*    position: absolute;*/
+/*    bottom: 35%;*/
+/*    left: 50%;*/
+/*    transform: translate(-50%, -50%);*/
+/*}*/
