@@ -56,3 +56,66 @@
     font-family: 'Anton', sans-serif;
 }
 
+/*start of small device*/
+
+
+#custom #sm-navbar-nav > li {
+    margin: 0 .5rem;
+}
+#custom .light-grey {
+    background-color: #F0F0F0;
+}
+
+#custom #sm-logo-img {
+    width: 105px;
+    height: 105px;
+    z-index: 3;
+    position: relative;
+}
+#custom #sm-white-bar{
+    height: 3.5rem;
+    background-color: white;
+    z-index: 0;
+    position: absolute;
+    margin-top: 6% !important;
+
+}
+#custom .circle {
+    border: 6px solid white;
+    border-radius: 50%;
+}
+#custom .circle-text {
+    font-size: 1rem;
+    color: white;
+}
+#custom #sm-apple-ipad-img {
+    border: 6px solid #e6e6e6;
+}
+#custom .little-circle-text {
+    font-size: 9px;
+    color: black;
+}
+#custom #sm-little-circle1 {
+    padding-right: 0 !important;
+    margin-right: 0 !important;
+}
+#custom #sm-little-circle2 {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+#custom #sm-little-circle3 {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+#custom #sm-little-circle4 {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+#custom p {
+    font-family: 'Abel', sans-serif;
+}
+#custom h1, h2, h3, h4, h5, h6 {
+    font-family: 'Anton', sans-serif;
+}
+
+
