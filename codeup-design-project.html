@@ -7,80 +7,75 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/codeup-desing-project.css">
-    <title>Hello, world!</title>
+    <script src="https://kit.fontawesome.com/ed020a3921.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/codeup-design-project.css">
+    <title>Codeup Designs</title>
 </head>
-<style>
-    #custom .list{
-        display: flex;
-        justify-content: space-around;
-    }
-
-
-</style>
-
-<body>
 <body id="custom">
-
-<h3 class="text-center" id="codeup-design">codeup design</h3>
-    <!--    <a class="navbar-brand" href="#"><img src="img/logo.jpg" alt="codeup-design-logo"></a>-->
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <!--        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">-->
-
-<!--            <div class="navbar-nav">-->
-<!--                    <a class="nav-item nav-link" href="#">SERVICES <span class="sr-only">(current)</span></a>-->
-<!--                    <a class="nav-item nav-link" href="#">WORK</a>-->
-<!--                    <a class="nav-item nav-link" href="#">BLOG</a>-->
-<!--                    <a class="nav-item nav-link" href="#">CONTACT</a>-->
-<!--            </div>-->
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <div class="navbar-nav" id="navbarNav">
-                    <ul class="navbar-nav d-flex flex-row list">
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Features</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Pricing</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Disabled</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
-    <!--        </div>-->
-        </nav>
-    <!--    MAIN CONTAINER-->
-    <div class="container" id="main-container">
-        <h2 class="text-center">VISUAL DESIGN & WEB DEVELOPMENT</h2>
-        <br>
-        <h5 class="text-center">FROM PARK CITY, UTAH</h5>
-
-        <div class="container" id="secondary-container">
-            <img src="img/"
-<!--            <i class="fas fa-circle"></i>-->
-
-<!--            Circle Colors-->
-<!--            burnt orange #e6563B-->
-<!--            Orange #DEA03D-->
-<!--            Green #7CB06C-->
-<!--            Blue green #00ABA9-->
-<!--            eggshell #F0F0F0-->
-<!--            light gray #E6E6E6-->
-
-
-
-
+    <main class="light-grey">
+        <div class="container" id="logo-container">
+            <img src="img/logo.png" class="rounded-circle mx-auto d-block" id="logo-img" alt="codeup-design-logo">
         </div>
+        <h2 class="text-center" id="codeup-design">codeup design</h2>
+        <nav class="navbar navbar-expand-lg navbar-light" id="navbar-nav-element">
+            <div class="navbar-nav m-auto" id="nav-bar-div">
+                <ul class="navbar-nav d-flex flex-row">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Services<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Work</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <!--    MAIN CONTAINER-->
+        <div class="container" id="main-container">
+            <h2 class="text-center">VISUAL DESIGN & WEB DEVELOPMENT</h2>
+            <br>
+            <h5 class="text-center">FROM PARK CITY, UTAH</h5>
+            <div class="container" id="secondary-container">
+                <div class="row align-content-between flex-wrap" id="circle-row">
+                    <div class="col-6" id="circle1">
+                        <span class="fa-layers fa-fw" style="font-size: 105px; color: #E6563B;">
+                            <i class="fas fa-circle circle"></i>
+                            <span class="fa-layers-text circle-text">27</span>
+                        </span>
+                    </div>
+                    <div class="col-6" id="circle2">
+                        <span class="fa-layers fa-fw" style="font-size: 105px; color: #EB9D3A;">
+                            <i class="fas fa-circle circle"></i>
+                            <span class="fa-layers-text circle-text">27</span>
+                        </span>
+                    </div>
+                    <div class="col-6" id="circle3">
+                        <span style="font-size: 105px; color: #7CD06C;">
+                            <i class="fas fa-circle circle"></i>
+                            <span class="fa-layers-text circle-text">27</span>
+                        </span>
+                    </div>
+                    <div class="col-6" id="circle4">
+                        <span style="font-size: 105px; color: #00ABA9;">
+                            <i class="fas fa-circle circle"></i>
+                            <span class="fa-layers-text circle-text">27</span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
 
 
 
 
 
-    </div>
+
 
 
 
