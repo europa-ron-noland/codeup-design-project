@@ -21,6 +21,8 @@
 #custom .circle {
     border: 6px solid white;
     border-radius: 50%;
+    /*text-align: center;*/
+    /*vertical-align: bottom;*/
 }
 #custom .circle-text {
     font-size: 24px;
