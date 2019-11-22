@@ -4,6 +4,13 @@
 #custom .light-grey {
     background-color: #F0F0F0;
 }
+#custom #codeup-design {
+    font-size: 24px;
+}
+custom #navbar-nav-element {
+    margin-top: 0;
+
+}
 
 #custom #logo-img {
     width: 105px;
@@ -16,7 +23,7 @@
     background-color: white;
     z-index: 0;
     position: absolute;
-    margin-top: 2.8rem !important;
+    margin-top: 1.5rem !important;
 }
 #custom .circle {
     border: 6px solid white;
