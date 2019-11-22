@@ -1,17 +1,17 @@
+body {
+    background-color: #F0F0F0;
+}
 #custom .navbar-nav > li {
     margin: 0 .5rem;
 }
-#custom .light-grey {
-    background-color: #F0F0F0;
-}
 #custom #codeup-design {
     font-size: 24px;
+    margin-bottom: 0;
 }
 custom #navbar-nav-element {
     margin-top: 0;
 
 }
-
 #custom #logo-img {
     width: 105px;
     height: 105px;
@@ -24,6 +24,12 @@ custom #navbar-nav-element {
     z-index: 0;
     position: absolute;
     margin-top: 1.5rem !important;
+}
+#custom #selected-work {
+    font-size: 14px;
+}
+#custom #featured-project {
+    font-size: 12px;
 }
 #custom .circle {
     border: 6px solid white;
@@ -84,6 +90,15 @@ custom #navbar-nav-element {
 
 }
 #custom #sm-apple-ipad-img {
+    border: 6px solid #e6e6e6;
+}
+#custom #sm-macbook-img {
+    border: 6px solid #e6e6e6;
+}
+#custom #sm-man-img {
+    border: 6px solid #e6e6e6;
+}
+#custom #sm-security-img {
     border: 6px solid #e6e6e6;
 }
 #custom #sm-little-circle1 {
