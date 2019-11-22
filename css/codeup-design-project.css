@@ -152,11 +152,54 @@ custom #navbar-nav-element {
     z-index: 0;
     position: absolute;
     margin-top: 2.8rem !important;
-
+}
+#custom .picture-col {
+    padding-left: 0;
+}
+#custom #md-multi-image-container1{
+    padding-left: 0;
+}
+#custom #md-multi-image-container2{
+    padding-left: 0;
+}
+#custom #md-multi-image-container3{
+    padding-left: 0;
+}
+#custom #md-multi-image-container4{
+    padding-left: 0;
 }
 #custom #md-apple-ipad-img {
     border: 6px solid #e6e6e6;
 }
+#custom #md-macbook-img {
+    border: 6px solid #e6e6e6;
+}
+#custom #md-man-img {
+    border: 6px solid #e6e6e6;
+}
+#custom #md-security-img {
+    border: 6px solid #e6e6e6;
+}
+#custom #right-card {
+    background-color: #F0F0F0;
+    border: none;
+}
+#custom #md-right-bar {
+    padding-right: 0;
+}
+#custom .fa-twitter {
+    color: #1DA1F3;
+}
+#custom #twitter {
+    margin-bottom: .5rem;
+}
+#custom #last-tweet {
+    font-size: 13px;
+}
+#custom #tweet-lorem {
+    font-size: 10px;
+}
+
 #custom #md-little-circle1 {
     padding-right: 0 !important;
     margin-right: 0 !important;
@@ -191,3 +234,4 @@ custom #navbar-nav-element {
 #custom #md-the-last {
     margin-right: 8rem;
 }
+
