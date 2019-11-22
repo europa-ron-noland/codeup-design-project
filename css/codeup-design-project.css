@@ -16,7 +16,7 @@
     background-color: white;
     z-index: 0;
     position: absolute;
-    margin-top: 8% !important;
+    margin-top: 2.8rem !important;
 }
 #custom .circle {
     border: 6px solid white;
@@ -73,7 +73,7 @@
     background-color: white;
     z-index: 0;
     position: absolute;
-    margin-top: 6% !important;
+    margin-top: 2.8rem !important;
 
 }
 #custom #sm-apple-ipad-img {
@@ -129,7 +129,7 @@
     background-color: white;
     z-index: 0;
     position: absolute;
-    margin-top: 6% !important;
+    margin-top: 2.8rem !important;
 
 }
 #custom #md-apple-ipad-img {
