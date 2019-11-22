@@ -185,7 +185,7 @@ custom #navbar-nav-element {
     border: none;
 }
 #custom #md-right-bar {
-    padding-right: 0;
+    padding: 0;
 }
 #custom .fa-twitter {
     color: #1DA1F3;
